@@ -1,42 +1,18 @@
-# Hugo Theme Serial Programmer
+# quinton.io
 
-> A Hugo theme for serial programmers (-.-)
+This is my personal blog, built with [Hugo](https://gohugo.io/).
 
-[Live Demo](https://sharadcodes.github.io/hugo-theme-serial-programmer/)
+I’m using the [Serial Programmer theme](https://github.com/sharadcodes/hugo-theme-serial-programmer) by [sharadcodes](https://github.com/sharadcodes) — it’s clean, simple, and fits what I was looking for.  
+You can check out the theme’s [live demo here](https://sharadcodes.github.io/hugo-theme-serial-programmer/).
 
-## How to install
+That's about it. Just a place to write and tinker.
 
-1. Download or clone the repo
-   `git clone https://github.com/sharadcodes/hugo-theme-serial-programmer.git`
-2. Enter the folder
-   `cd hugo-theme-serial-programmer`
-3. Run
-   `hugo serve`
-5. Access via
-   - localhost or according to your pc configurations.
-6. Change the `config.toml` & `data/author.yml` files as you like.
-7. Upload the files on your repository and :sunglasses: enjoy.
+---
 
-## Asking for support!
+## 🛠 Tech Stack Used
 
-Hello everyone, If you have used this theme and if it has helped you in any way or if you just want to support me for my open source work, you can support me by donating any amount.
-
-You can use the sponsor button at the top or on the right. 
-
-### [Github Sponsor Page](https://github.com/sponsors/sharadcodes)
-
-## PC BLOG PAGE
-
-![Blog page](https://raw.githubusercontent.com/sharadcodes/hugo-theme-serial-programmer/main/screenshots/pc_blog.png)
-
-## PC POST EXAMPLE
-
-![Post page](https://raw.githubusercontent.com/sharadcodes/hugo-theme-serial-programmer/main/screenshots/pc_post.png)
-
-## PHONE BLOG PAGE
-
-![Blog page](https://raw.githubusercontent.com/sharadcodes/hugo-theme-serial-programmer/main/screenshots/mobile_blog.png)
-
-## PHONE POST EXAMPLE
-
-![Post page](https://raw.githubusercontent.com/sharadcodes/hugo-theme-serial-programmer/main/screenshots/mobile_post.png)
+- **Static Site Generator:** [Hugo](https://gohugo.io/)
+- **Theme:** [Serial Programmer](https://github.com/sharadcodes/hugo-theme-serial-programmer)
+- **Hosting:** [GitHub Pages](https://pages.github.com/)
+- **CI/CD:** [GitHub Actions](https://docs.github.com/en/actions) for automated deploys
+- **Domain:** [quinton.io](https://quinton.io), managed via [Namecheap](https://www.namecheap.com/)
