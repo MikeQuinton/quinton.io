@@ -1,0 +1,31 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Hugo Serial Programmer",
+  "home_page_url": "http://localhost:1313/",
+  "feed_url": "http://localhost:1313/",
+
+
+  "items": [
+  
+  
+    {
+      "id": "http://localhost:1313/2021/11/04/hugo-markdown/",
+      "title": "Hugo Markdown",
+      "content_text": "\u003cp\u003eText can be \u003cstrong\u003ebold\u003c/strong\u003e, \u003cem\u003eitalic\u003c/em\u003e, \u003cdel\u003estrikethrough\u003c/del\u003e or \u003ccode\u003ekeyword\u003c/code\u003e\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"./another-page.html\"\u003eLink to another page\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eThere should be whitespace between paragraphs.\u003c/p\u003e\n\u003cp\u003eThere should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.\u003c/p\u003e\n\u003ch4 id=\"image\"\u003eImage\u003c/h4\u003e\n\u003cp\u003eImages can be clicked to enlarge :) .\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://picsum.photos/800/300\" alt=\"Dummy Image\"\u003e\u003c/p\u003e\n\u003ch1 id=\"header-1\"\u003eHeader 1\u003c/h1\u003e\n\u003cp\u003eThis is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.\u003c/p\u003e",
+      "url": "http://localhost:1313/2021/11/04/hugo-markdown/",
+      "date_published": "2021-11-04 00:00:00 +0000 UTC",
+      "tags": ["hugo"]
+    }
+  
+  , 
+    {
+      "id": "http://localhost:1313/1948/12/12/the-purpose-of-education/",
+      "title": "The Purpose of Education",
+      "content_text": "\u003cp\u003eAs I engage in the so-called \u0026ldquo;bull sessions\u0026rdquo; around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the \u0026ldquo;brethren\u0026rdquo; think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.\u003c/p\u003e",
+      "url": "http://localhost:1313/1948/12/12/the-purpose-of-education/",
+      "date_published": "1948-12-12 10:18:00 +0000 UTC",
+      "tags": ["fiction,hugo"]
+    }
+  
+  ]
+}
