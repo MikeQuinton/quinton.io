@@ -1,7 +1,6 @@
-baseURL = 'https://mikequinton.github.io/'
+baseURL = 'https://quinton.io/'
 languageCode = 'en-us'
 title = 'Hugo Serial Programmer'
-theme = 'serial'
 rssLimit = 20
 copyright = '2021 Janne Kemppainen'
 minify = false
