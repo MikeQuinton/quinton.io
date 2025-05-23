@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Janne Kemppainen</copyright>
-    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 22:29:48 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom title</title>
+      <link>http://localhost:1313/2025/05/23/a-fresh-start/</link>
+      <pubDate>Fri, 23 May 2025 22:29:48 +0200</pubDate>
+      <guid>http://localhost:1313/2025/05/23/a-fresh-start/</guid>
+      <description>&lt;p&gt;For me, I&amp;rsquo;m the type of person that would say I&amp;rsquo;m starting something and will but to see it through and continue doing that is an unlikely.&lt;/p&gt;&#xA;&lt;p&gt;I started a blog in the past but hardly posted any content. Nothing fruitful came from it.&lt;/p&gt;&#xA;&lt;p&gt;More recently I&amp;rsquo;ve seen some content posted from a friend called Chris which inspired this to happen again for me. He is regularly posting content in relation to Kubernetes and anything else he finds interesting, he even has a youtube channel. Something I probably won&amp;rsquo;t do but for now, I&amp;rsquo;ll start with a blog. Baby steps as they say.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hugo Markdown</title>
       <link>http://localhost:1313/2021/11/04/hugo-markdown/</link>

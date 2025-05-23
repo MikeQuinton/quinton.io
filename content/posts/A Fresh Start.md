@@ -1,16 +1,19 @@
 ---
-title: "Custom title"
-description: "Custom description"
-date: 2025-05-23T22:29:48+02:00
-tags: ["",""]
-author: "Michael Quinton"
+title: "Starting Again"
+date: 2025-05-23
+tags: ["personal", "blogging", "tech", "motivation"]
+categories: ["journal"]
 draft: false
 ---
 
-For me, I'm the type of person that would say I'm starting something and will but to see it through and continue doing that is an unlikely.
+For me, I'm the type of person who says I'm starting something and means it... but actually seeing it through? That part tends to fall off.
 
-I started a blog in the past but hardly posted any content. Nothing fruitful came from it.
+I started a blog in the past, posted maybe once or twice, and that was that. Nothing really came of it.
 
-More recently I've seen some content posted from a friend called Chris which inspired this to happen again for me. He is regularly posting content in relation to Kubernetes and anything else he finds interesting, he even has a youtube channel. Something I probably won't do but for now, I'll start with a blog. Baby steps as they say.
+But recently, I've been inspired again. A friend of mine, Chris, has been consistently posting content—mostly about Kubernetes and tech stuff he finds interesting. He even runs a YouTube channel. That's probably not something I'll be doing, but seeing his consistency sparked something.
 
-The dream for this or shall we say to place I want it to be is somewhere I can showcase some tech related content, photos, etc...
+So here I am, giving this another go. Baby steps, right?
+
+The goal for this blog—or at least the place I want it to get to—is somewhere I can share tech-related stuff, post some photos, and just document things that catch my interest.
+
+Let's see where it goes.

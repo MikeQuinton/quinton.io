@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Hugo Serial Programmer</title>
+    <link>http://localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on Hugo Serial Programmer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2021 Janne Kemppainen</copyright>
+    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting Again</title>
+      <link>http://localhost:1313/2025/05/23/a-fresh-start/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/05/23/a-fresh-start/</guid>
+      <description>&lt;p&gt;For me, I&amp;rsquo;m the type of person who says I&amp;rsquo;m starting something and means it&amp;hellip; but actually seeing it through? That part tends to fall off.&lt;/p&gt;&#xA;&lt;p&gt;I started a blog in the past, posted maybe once or twice, and that was that. Nothing really came of it.&lt;/p&gt;&#xA;&lt;p&gt;But recently, I&amp;rsquo;ve been inspired again. A friend of mine, Chris, has been consistently posting content—mostly about Kubernetes and tech stuff he finds interesting. He even runs a YouTube channel. That&amp;rsquo;s probably not something I&amp;rsquo;ll be doing, but seeing his consistency sparked something.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
