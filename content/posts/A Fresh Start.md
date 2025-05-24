@@ -5,6 +5,7 @@ tags: ["personal", "blogging", "tech", "motivation"]
 categories: ["journal"]
 draft: false
 ---
+![Dummy Image](/images/IMG_2931-2.jpg)
 
 For me, I'm the type of person who says I'm starting something and means it... but actually seeing it through? That part tends to fall off.
 

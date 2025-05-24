@@ -1,6 +1,6 @@
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "Hugo Serial Programmer",
+  "title": "Logs from the Matrix",
   "home_page_url": "http://localhost:1313/",
   "feed_url": "http://localhost:1313/",
 
@@ -9,9 +9,19 @@
   
   
     {
+      "id": "http://localhost:1313/2025/05/24/my-hugo-setup-and-why-i-chose-it/",
+      "title": "Why I Chose Hugo (And Ditched Jekyll)",
+      "content_text": "\u003cp\u003eWhen creating a blog, you’ve got a ton of options. Some are just not as simple as Hugo. Hugo has its downsides, sure—but for me, the pros easily outweigh the cons.\u003c/p\u003e\n\u003cp\u003eI tried Jekyll at first. The problem? Ruby dependencies. It got annoying fast. I didn’t feel like debugging stuff before I even got to the hard part: actually writing. Weird thing to say as someone in tech, maybe\u0026hellip; but I’d rather save the troubleshooting for when it’s really needed.\u003c/p\u003e",
+      "url": "http://localhost:1313/2025/05/24/my-hugo-setup-and-why-i-chose-it/",
+      "date_published": "2025-05-24 00:47:23 +0200 CEST",
+      "tags": ["hugo,blogging,static-site,setup"]
+    }
+  
+  , 
+    {
       "id": "http://localhost:1313/2025/05/23/a-fresh-start/",
       "title": "Starting Again",
-      "content_text": "\u003cp\u003eFor me, I\u0026rsquo;m the type of person who says I\u0026rsquo;m starting something and means it\u0026hellip; but actually seeing it through? That part tends to fall off.\u003c/p\u003e\n\u003cp\u003eI started a blog in the past, posted maybe once or twice, and that was that. Nothing really came of it.\u003c/p\u003e\n\u003cp\u003eBut recently, I\u0026rsquo;ve been inspired again. A friend of mine, Chris, has been consistently posting content—mostly about Kubernetes and tech stuff he finds interesting. He even runs a YouTube channel. That\u0026rsquo;s probably not something I\u0026rsquo;ll be doing, but seeing his consistency sparked something.\u003c/p\u003e",
+      "content_text": "\u003cp\u003e\u003cimg src=\"/images/IMG_2931-2.jpg\" alt=\"Dummy Image\"\u003e\u003c/p\u003e\n\u003cp\u003eFor me, I\u0026rsquo;m the type of person who says I\u0026rsquo;m starting something and means it\u0026hellip; but actually seeing it through? That part tends to fall off.\u003c/p\u003e\n\u003cp\u003eI started a blog in the past, posted maybe once or twice, and that was that. Nothing really came of it.\u003c/p\u003e\n\u003cp\u003eBut recently, I\u0026rsquo;ve been inspired again. A friend of mine, Chris, has been consistently posting content—mostly about Kubernetes and tech stuff he finds interesting. He even runs a YouTube channel. That\u0026rsquo;s probably not something I\u0026rsquo;ll be doing, but seeing his consistency sparked something.\u003c/p\u003e",
       "url": "http://localhost:1313/2025/05/23/a-fresh-start/",
       "date_published": "2025-05-23 00:00:00 +0000 UTC",
       "tags": ["personal,blogging,tech,motivation"]
