@@ -3,14 +3,17 @@
   {{ partial "head.html" . }}
   <body>
     <main>
+      {{ partial "menu.html" . }}
       {{ partial "header.html" . }}
       <section class="article">
         <div class="article-header">
           <h2 class="article-title">{{ .Title }}</h2>
-          <small class="date">{{ .Date.Format "Mon Jan 2, 2006" }}</small>
+          {{ if and (.Date) (ne .Params.showDate false) (not (eq (.Date.Format "2006") "0001")) }}
+            <small class="date">{{ .Date.Format "Mon Jan 2, 2006" }}</small>
+          {{ end }}
           <div class="tags">
             {{ range $.Params.tags }}
-            <a href="{{site.BaseURL}}tags/{{ . }}" class="tag">{{ . }}</a>
+              <a href="{{ site.BaseURL }}tags/{{ . }}" class="tag">{{ . }}</a>
             {{ end }}
           </div>
         </div>

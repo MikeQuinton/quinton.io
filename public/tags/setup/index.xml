@@ -14,7 +14,7 @@
       <link>http://localhost:1313/2025/05/24/my-hugo-setup-and-why-i-chose-it/</link>
       <pubDate>Sat, 24 May 2025 00:47:23 +0200</pubDate>
       <guid>http://localhost:1313/2025/05/24/my-hugo-setup-and-why-i-chose-it/</guid>
-      <description>&lt;p&gt;When creating a blog, you’ve got a ton of options. Some are just not as simple as Hugo. Hugo has its downsides, sure—but for me, the pros easily outweigh the cons.&lt;/p&gt;&#xA;&lt;p&gt;I tried Jekyll at first. The problem? Ruby dependencies. It got annoying fast. I didn’t feel like debugging stuff before I even got to the hard part: actually writing. Weird thing to say as someone in tech, maybe&amp;hellip; but I’d rather save the troubleshooting for when it’s actually needed.&lt;/p&gt;</description>
+      <description>&lt;p&gt;When creating a blog, you’ve got a ton of options. Some are just not as simple as Hugo. Hugo has its downsides, sure—but for me, the pros easily outweigh the cons.&lt;/p&gt;&#xA;&lt;p&gt;I tried Jekyll at first. The problem? Ruby dependencies. It got annoying fast. I didn’t feel like debugging stuff before I even got to the hard part: actually writing. Weird thing to say as someone in tech, maybe&amp;hellip; but I’d rather save the troubleshooting for when it’s really needed.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

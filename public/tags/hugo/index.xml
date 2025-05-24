@@ -14,21 +14,7 @@
       <link>http://localhost:1313/2025/05/24/my-hugo-setup-and-why-i-chose-it/</link>
       <pubDate>Sat, 24 May 2025 00:47:23 +0200</pubDate>
       <guid>http://localhost:1313/2025/05/24/my-hugo-setup-and-why-i-chose-it/</guid>
-      <description>&lt;p&gt;When creating a blog, you’ve got a ton of options. Some are just not as simple as Hugo. Hugo has its downsides, sure—but for me, the pros easily outweigh the cons.&lt;/p&gt;&#xA;&lt;p&gt;I tried Jekyll at first. The problem? Ruby dependencies. It got annoying fast. I didn’t feel like debugging stuff before I even got to the hard part: actually writing. Weird thing to say as someone in tech, maybe&amp;hellip; but I’d rather save the troubleshooting for when it’s actually needed.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hugo Markdown</title>
-      <link>http://localhost:1313/2021/11/04/hugo-markdown/</link>
-      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2021/11/04/hugo-markdown/</guid>
-      <description>&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, &lt;del&gt;strikethrough&lt;/del&gt; or &lt;code&gt;keyword&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./another-page.html&#34;&gt;Link to another page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;There should be whitespace between paragraphs.&lt;/p&gt;&#xA;&lt;p&gt;There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.&lt;/p&gt;&#xA;&lt;h4 id=&#34;image&#34;&gt;Image&lt;/h4&gt;&#xA;&lt;p&gt;Images can be clicked to enlarge :) .&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/800/300&#34; alt=&#34;Dummy Image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;header-1&#34;&gt;Header 1&lt;/h1&gt;&#xA;&lt;p&gt;This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Purpose of Education</title>
-      <link>http://localhost:1313/1948/12/17/the-purpose-of-education/</link>
-      <pubDate>Fri, 17 Dec 1948 10:18:00 +0000</pubDate>
-      <guid>http://localhost:1313/1948/12/17/the-purpose-of-education/</guid>
-      <description>&lt;p&gt;As I engage in the so-called &amp;ldquo;bull sessions&amp;rdquo; around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the &amp;ldquo;brethren&amp;rdquo; think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;</description>
+      <description>&lt;p&gt;When creating a blog, you’ve got a ton of options. Some are just not as simple as Hugo. Hugo has its downsides, sure—but for me, the pros easily outweigh the cons.&lt;/p&gt;&#xA;&lt;p&gt;I tried Jekyll at first. The problem? Ruby dependencies. It got annoying fast. I didn’t feel like debugging stuff before I even got to the hard part: actually writing. Weird thing to say as someone in tech, maybe&amp;hellip; but I’d rather save the troubleshooting for when it’s really needed.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
