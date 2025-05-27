@@ -30,16 +30,10 @@ minify = false
     weight = 1
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 2
-
-  [[menu.main]]
     identifier = "photos"
     name = "Photos"
     url = "/photos/"
-    weight = 3
+    weight = 2
 
   [[menu.main]]
     identifier = "about"
