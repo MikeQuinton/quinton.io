@@ -25,4 +25,4 @@ I’m driven by curiosity and the willingness to learn.
 You can find me sharing thoughts and bits of code on:
 
 - [GitHub](https://github.com/MikeQuinton)
-- [LinkedIn](https://www.linkedin.com/in/) (insert yours or remove)
+- [LinkedIn](https://www.linkedin.com/in/mikepquinton/)
