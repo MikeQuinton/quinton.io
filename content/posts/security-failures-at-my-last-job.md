@@ -4,7 +4,7 @@ date: 2025-06-03
 tags: ["infosec", "offboarding", "IT process", "security culture", "HR", "exit process"]
 categories: ["work stories", "security observations"]
 description: "A breakdown of the quiet, avoidable security lapses I experienced while working at (and leaving) a previous company."
-draft: true
+draft: false
 ---
 
 I recently changed jobs and moved to Berlin—which is another story in itself.
