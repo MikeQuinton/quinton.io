@@ -9,6 +9,16 @@
   
   
     {
+      "id": "http://localhost:1313/2025/06/03/security-failures-at-my-last-job/",
+      "title": "Security Was an Afterthought: The Quiet Failures at a Previous Job",
+      "content_text": "\u003cp\u003eI recently changed jobs and moved to Berlin—which is another story in itself.\u003c/p\u003e\n\u003cp\u003eWhile getting everything set up for my new role, I noticed something. Several days after leaving my last job, I still had access to internal systems: Teams, VPN, project documentation, etc.\u003c/p\u003e\n\u003cp\u003eWhich of course meant I still had access to a lot I definitely shouldn’t have.\u003c/p\u003e\n\u003chr\u003e\n\u003ch3 id=\"some-things-that-still-haunt-me\"\u003eSome Things That Still Haunt Me\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eNo security cameras.\u003c/strong\u003e Not even in places you\u0026rsquo;d expect, like entrances or the server room.\u003c/p\u003e",
+      "url": "http://localhost:1313/2025/06/03/security-failures-at-my-last-job/",
+      "date_published": "2025-06-03 00:00:00 +0000 UTC",
+      "tags": ["infosec,offboarding,IT process,security culture,HR,exit process"]
+    }
+  
+  , 
+    {
       "id": "http://localhost:1313/2025/05/24/my-hugo-setup-and-why-i-chose-it/",
       "title": "Why I Chose Hugo (And Ditched Jekyll)",
       "content_text": "\u003cp\u003eWhen creating a blog, you’ve got a ton of options. Some are just not as simple as Hugo. Hugo has its downsides, sure—but for me, the pros easily outweigh the cons.\u003c/p\u003e\n\u003cp\u003eI tried Jekyll at first. The problem? Ruby dependencies. It got annoying fast. I didn’t feel like debugging stuff before I even got to the hard part: actually writing. Weird thing to say as someone in tech, maybe\u0026hellip; but I’d rather save the troubleshooting for when it’s really needed.\u003c/p\u003e",

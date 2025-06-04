@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2021 Janne Kemppainen</copyright>
-    <lastBuildDate>Sat, 24 May 2025 00:47:23 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Was an Afterthought: The Quiet Failures at a Previous Job</title>
+      <link>http://localhost:1313/2025/06/03/security-failures-at-my-last-job/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/06/03/security-failures-at-my-last-job/</guid>
+      <description>&lt;p&gt;I recently changed jobs and moved to Berlin—which is another story in itself.&lt;/p&gt;&#xA;&lt;p&gt;While getting everything set up for my new role, I noticed something. Several days after leaving my last job, I still had access to internal systems: Teams, VPN, project documentation, etc.&lt;/p&gt;&#xA;&lt;p&gt;Which of course meant I still had access to a lot I definitely shouldn’t have.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;some-things-that-still-haunt-me&#34;&gt;Some Things That Still Haunt Me&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;No security cameras.&lt;/strong&gt; Not even in places you&amp;rsquo;d expect, like entrances or the server room.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why I Chose Hugo (And Ditched Jekyll)</title>
       <link>http://localhost:1313/2025/05/24/my-hugo-setup-and-why-i-chose-it/</link>
@@ -22,6 +29,13 @@
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2025/05/23/a-fresh-start/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_2931-2.jpg&#34; alt=&#34;Dummy Image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For me, I&amp;rsquo;m the type of person who says I&amp;rsquo;m starting something and means it&amp;hellip; but actually seeing it through? That part tends to fall off.&lt;/p&gt;&#xA;&lt;p&gt;I started a blog in the past, posted maybe once or twice, and that was that. Nothing really came of it.&lt;/p&gt;&#xA;&lt;p&gt;But recently, I&amp;rsquo;ve been inspired again. A friend of mine, Chris, has been consistently posting content—mostly about Kubernetes and tech stuff he finds interesting. He even runs a YouTube channel. That&amp;rsquo;s probably not something I&amp;rsquo;ll be doing, but seeing his consistency sparked something.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;who-am-i&#34;&gt;Who Am I&lt;/h1&gt;&#xA;&lt;p&gt;Hi, I’m Mike Quinton — a Solutions Engineer working in Berlin. I like to share my journey through infrastructure configs, automation mishaps, and the occasional deep dive into debugging.&lt;/p&gt;&#xA;&lt;p&gt;I’m driven by curiosity and the willingness to learn.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;🛠️ &lt;strong&gt;Infrastructure &amp;amp; Automation&lt;/strong&gt;&lt;br&gt;&#xA;I specialize in designing and maintaining resilient systems — from on-prem to the cloud. I enjoy building repeatable, observable workflows with tools like Terraform, Ansible, and CI/CD pipelines.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
