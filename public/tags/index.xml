@@ -52,6 +52,34 @@
       <description></description>
     </item>
     <item>
+      <title>Career</title>
+      <link>http://localhost:1313/tags/career/</link>
+      <pubDate>Sun, 25 May 2025 23:24:52 +0200</pubDate>
+      <guid>http://localhost:1313/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interviews</title>
+      <link>http://localhost:1313/tags/interviews/</link>
+      <pubDate>Sun, 25 May 2025 23:24:52 +0200</pubDate>
+      <guid>http://localhost:1313/tags/interviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job Hunting</title>
+      <link>http://localhost:1313/tags/job-hunting/</link>
+      <pubDate>Sun, 25 May 2025 23:24:52 +0200</pubDate>
+      <guid>http://localhost:1313/tags/job-hunting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red Flags</title>
+      <link>http://localhost:1313/tags/red-flags/</link>
+      <pubDate>Sun, 25 May 2025 23:24:52 +0200</pubDate>
+      <guid>http://localhost:1313/tags/red-flags/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Blogging</title>
       <link>http://localhost:1313/tags/blogging/</link>
       <pubDate>Sat, 24 May 2025 00:47:23 +0200</pubDate>

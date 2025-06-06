@@ -41,6 +41,21 @@
     <loc>http://localhost:1313/categories/work-stories/</loc>
     <lastmod>2025-06-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/career/</loc>
+    <lastmod>2025-05-25T23:24:52+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2025/05/25/interview-red-flags/</loc>
+    <lastmod>2025-05-25T23:24:52+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/interviews/</loc>
+    <lastmod>2025-05-25T23:24:52+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/job-hunting/</loc>
+    <lastmod>2025-05-25T23:24:52+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/red-flags/</loc>
+    <lastmod>2025-05-25T23:24:52+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/blogging/</loc>
     <lastmod>2025-05-24T00:47:23+02:00</lastmod>
   </url><url>
@@ -53,7 +68,7 @@
     <loc>http://localhost:1313/tags/static-site/</loc>
     <lastmod>2025-05-24T00:47:23+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2025/05/24/my-hugo-setup-and-why-i-chose-it/</loc>
+    <loc>http://localhost:1313/2025/05/24/my-hugo-setup/</loc>
     <lastmod>2025-05-24T00:47:23+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/journal/</loc>
